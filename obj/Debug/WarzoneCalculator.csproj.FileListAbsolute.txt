@@ -1,0 +1,10 @@
+C:\Users\altwa\source\repos\WarzoneCalculator\bin\Debug\WarzoneCalculator.exe.config
+C:\Users\altwa\source\repos\WarzoneCalculator\bin\Debug\WarzoneCalculator.exe
+C:\Users\altwa\source\repos\WarzoneCalculator\bin\Debug\WarzoneCalculator.pdb
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.csproj.AssemblyReference.cache
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.CalculatorForm.resources
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.Properties.Resources.resources
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.csproj.GenerateResource.cache
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.csproj.CoreCompileInputs.cache
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.exe
+C:\Users\altwa\source\repos\WarzoneCalculator\obj\Debug\WarzoneCalculator.pdb
